@@ -1,4 +1,4 @@
-
+smart Parallels Desktop for macOS Helper | VM-management + drag-and-drop-support offers the most advanced Parallels Desktop for macOS helper, with VM-management and
 
 
 
